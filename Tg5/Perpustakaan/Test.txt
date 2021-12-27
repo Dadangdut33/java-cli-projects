@@ -1,0 +1,38 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class Test {
+    public static void main(String[] args) {
+        // ArrayList<ArrayList<Integer>> groupPeminjaman = new ArrayList<>(100);
+        // List<List<String>> groupPeminjaman = new ArrayList<List<String>>(100); 
+        // for(int i = 0; i < 100; i++){
+        //     groupPeminjaman.add(new ArrayList<>());
+        // }
+
+        ArrayList<String> contohData = new ArrayList<String>();
+        System.out.println(contohData.size());
+        
+
+        // System.out.println(2 > 1);
+
+
+        // groupPeminjaman.get(0).add("TEST 1");
+        // groupPeminjaman.get(0).add("TEST 2");
+        // groupPeminjaman.get(1).add("TEST 3");
+
+        // System.out.println(groupPeminjaman.get(0).get(0));
+        // System.out.println(groupPeminjaman.get(0).get(1));
+        // System.out.println(groupPeminjaman.get(1).get(0));
+    
+        // System.out.println(groupPeminjaman.size());
+
+        // int indexAkun = 0; // misal akun pertama
+
+        // // for(int i = 0; i < 1; i++){
+        //     for(int j = 0; j < groupPeminjaman.get(indexAkun).size(); j++){
+        //         System.out.println(groupPeminjaman.get(indexAkun).get(j) + " ");
+            
+            // System.out.println();
+        // }
+    }
+}
